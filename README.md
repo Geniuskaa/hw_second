@@ -3,7 +3,7 @@
     git clone https://github.com/Geniuskaa/hw_second.git`
    ```
 2. ```bash 
-    cd cli-cloudphoto
+    cd hw_second
    ```
 3. ```bash 
     ./cloudphoto help
